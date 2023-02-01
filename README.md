@@ -11,3 +11,8 @@ Um z.B. Events mit kleiner Chance gut Testen zu können ohne immer Glück haben 
 
 ## Was macht Random.Range
 Random.Range gibt eine Zahl zwischen den von dir gegebenen Zahlen (Range) aus.
+
+## UnityVersion: 2020.3.18f1
+## VisualStudioVersion: 2019
+## OperationSystem: Windows 11, version 22H2
+
